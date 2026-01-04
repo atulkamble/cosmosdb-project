@@ -1,7 +1,3 @@
-Below is a **clean, step-by-step documented guide** you can directly use as **README.md / lab notes** for your **Azure Cosmos DB (Python) practice project**, including **local run + Docker run**.
-
----
-
 # 🚀 Azure Cosmos DB – Python Application (Local + Docker)
 
 ![Image](https://learn.microsoft.com/en-us/azure/cosmos-db/media/use-cases/iot.png)
